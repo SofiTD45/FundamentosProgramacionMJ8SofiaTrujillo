@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\bin\Debug\14.ArreglosUnidimencionales.exe.config
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\bin\Debug\14.ArreglosUnidimencionales.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\bin\Debug\14.ArreglosUnidimencionales.pdb
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\obj\Debug\14.ArreglosUnidimencionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\obj\Debug\14.ArreglosUnidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\obj\Debug\14.ArreglosUnidimencionales.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\14.ArreglosUnidimencionales\14.ArreglosUnidimencionales\obj\Debug\14.ArreglosUnidimencionales.pdb
