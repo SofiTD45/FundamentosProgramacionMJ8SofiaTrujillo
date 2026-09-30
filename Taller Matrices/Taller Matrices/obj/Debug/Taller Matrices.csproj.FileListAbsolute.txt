@@ -1,0 +1,7 @@
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\bin\Debug\Taller Matrices.exe.config
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\bin\Debug\Taller Matrices.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\bin\Debug\Taller Matrices.pdb
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\obj\Debug\Taller Matrices.csproj.AssemblyReference.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\obj\Debug\Taller Matrices.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\obj\Debug\Taller Matrices.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\Taller Matrices\Taller Matrices\obj\Debug\Taller Matrices.pdb
