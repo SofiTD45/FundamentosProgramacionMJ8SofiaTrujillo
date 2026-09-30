@@ -1,0 +1,7 @@
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\bin\Debug\10.CiclosWhile3.exe.config
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\bin\Debug\10.CiclosWhile3.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\bin\Debug\10.CiclosWhile3.pdb
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\obj\Debug\10.CiclosWhile3.csproj.AssemblyReference.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\obj\Debug\10.CiclosWhile3.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\obj\Debug\10.CiclosWhile3.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\10.CiclosWhile3\10.CiclosWhile3\obj\Debug\10.CiclosWhile3.pdb
