@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\bin\Debug\16.ArreglosBidimencinal-Matrices.exe.config
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\bin\Debug\16.ArreglosBidimencinal-Matrices.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\bin\Debug\16.ArreglosBidimencinal-Matrices.pdb
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\obj\Debug\16.ArreglosBidimencinal-Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\obj\Debug\16.ArreglosBidimencinal-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\obj\Debug\16.ArreglosBidimencinal-Matrices.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\16.ArreglosBidimencinal-Matrices\16.ArreglosBidimencinal-Matrices\obj\Debug\16.ArreglosBidimencinal-Matrices.pdb
