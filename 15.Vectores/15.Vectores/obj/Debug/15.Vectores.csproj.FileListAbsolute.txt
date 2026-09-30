@@ -1,0 +1,7 @@
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\bin\Debug\15.Vectores.exe.config
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\bin\Debug\15.Vectores.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\bin\Debug\15.Vectores.pdb
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\obj\Debug\15.Vectores.csproj.AssemblyReference.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\obj\Debug\15.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\obj\Debug\15.Vectores.exe
+C:\Users\sofia\OneDrive\Documentos\IDED\2 Semestre\FP\15.Vectores\15.Vectores\obj\Debug\15.Vectores.pdb
